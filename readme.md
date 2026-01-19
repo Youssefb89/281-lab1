@@ -7,8 +7,8 @@
 This repo shows some of githubs' **simple Markdowns**
 
 
-``py
+```py
 
 print ("Hello, World!")
 
-``
+```
