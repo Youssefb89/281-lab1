@@ -7,8 +7,8 @@
 This repo shows some of githubs' **simple Features**
 
 ## Features
--Test1
--Test2
+- Test1
+- Test2
 
 ```py
 
